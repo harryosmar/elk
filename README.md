@@ -1,3 +1,7 @@
+[!elastic search](https://raw.githubusercontent.com/harryosmar/elk/master/elastic-search.png)
+
+[!kibana](https://raw.githubusercontent.com/harryosmar/elk/master/kibana.png)
+
 # Setup
 
 ```
